@@ -1,4 +1,4 @@
-## AWS EC2 Launch
+# AWS EC2 Launch
 
 This guide provides step-by-step instructions for creating an Amazon EC2 instance using the AWS Management Console.
 
