@@ -1,4 +1,4 @@
-# 📚 Learning in Public
+# Learning in Public
 
 I created this repository to document my hands-on learning journey in **Laravel**, **DevOps**, **AWS**, and **Cloud Infrastructure**.
 
