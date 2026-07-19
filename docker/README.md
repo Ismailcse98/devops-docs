@@ -2,7 +2,7 @@
 
 I'm documenting my Docker learning journey one module at a time and publishing everything on GitHub. The goal is to create clear, beginner-friendly notes that are easy to revisit and useful for anyone learning Docker.
 
-## Learn
+## Topics
 
 ```text
     - Module 01: Docker Fundamentals
