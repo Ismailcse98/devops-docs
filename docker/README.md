@@ -1,11 +1,12 @@
 # Docker Master Course
 
-Based on your experience with Laravel, I would structure it as a 15-20 chapter learning roadmap, where every chapter ends with a working application before moving to the next one.
+I'm documenting my Docker learning journey one module at a time and publishing everything on GitHub. The goal is to create clear, beginner-friendly notes that are easy to revisit and useful for anyone learning Docker.
 
 ## Module 1
 Docker Fundamentals
 >**Learn**
 ```text
-    - Docker Fundamentals
-    - 
+    - Module 01: Docker Fundamentals
+    - Module 02: Install Docker (Ubuntu)
+    - Module 03: Docker CLI Deep Dive
 ```
