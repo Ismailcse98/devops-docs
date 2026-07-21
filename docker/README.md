@@ -8,4 +8,5 @@ I'm documenting my Docker learning journey one module at a time and publishing e
     - Module 01: Docker Fundamentals
     - Module 02: Install Docker (Ubuntu)
     - Module 03: Docker CLI Deep Dive
+    - Module 04: Docker Images & Dockerfile Fundamentals
 ```
