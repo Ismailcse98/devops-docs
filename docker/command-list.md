@@ -1,4 +1,4 @@
-# Docker Command List
+# Docker Commands & Image Management
 
 ## Module 1 — Docker Basics
 
