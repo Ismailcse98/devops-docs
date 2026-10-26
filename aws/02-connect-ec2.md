@@ -7,7 +7,6 @@ cd .\.ssh\
 
 ## Create your ssh public and private key
 ```bash
-cd .\.ssh\
 ssh-keygen -t ed25519 -C "ec2-key" -f ".\ec2-key"
 ```
 
@@ -40,5 +39,5 @@ sudo tail -n 3 /home/ubuntu/.ssh/authorized_keys
 
 ## Connect your ec2 instance
 ```bash
-ssh -i ".\aws-ec2-key" ubuntu@YOUR_EC2_PUBLIC_IP
+ssh -i ".\ec2-key" ubuntu@YOUR_EC2_PUBLIC_IP
 ```
