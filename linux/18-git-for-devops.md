@@ -12,7 +12,7 @@
 |   git commit -m "message" | Creates a commit from staged changes.                            |
 |   git log                 | Displays commit history.                                         |
 |   git branch              | Lists Git branches.                                              |
-|   git checkout -b branch     | Switches to another branch.                                      |
+|   git checkout -b branch  | Switches to another branch.                                      |
 |   git switch branch       | Modern command for switching branches.                           |
 |   git merge branch        | Merges another branch into the current branch.                   |
 |   git pull                | Downloads and integrates remote changes.                         |
